@@ -1,6 +1,6 @@
 {
   "name": "@ace371/baileys",
-  "version": "8.2.8",
+  "version": "1.1.0",
   "description": "A WebSockets library for interacting with WhatsApp Web",
   "keywords": [
     "whatsapp",
@@ -8,7 +8,7 @@
   ],
   "homepage": "https://github.com/whiskeySockets/Baileys/",
   "repository": {
-    "url": "git+https://github.com/arsya371/baileys.git"
+    "url": "https://github.com/arsya371/baileys"
   },
   "license": "MIT",
   "author": "Meta Platforms, Inc.",
@@ -80,11 +80,5 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "scope": "@ace371",
-  "directories": {
-    "lib": "lib"
-  },
-  "bugs": {
-    "url": "https://github.com/arsya371/baileys/issues"
-  }
+  "scope": "@ace371"
 }
